@@ -1,4 +1,4 @@
-# Personalized_Recommandation_System_HealthcarePersonal-Recommendation-system--Healthcare
+# Personalized_Recommandation_System_Healthcare
 Project Overview
 The Personalized Recommendation System leverages Machine Learning (ML) and Artificial Intelligence (AI) to provide tailored suggestions to users based on their preferences, behaviors, and interactions.
 
